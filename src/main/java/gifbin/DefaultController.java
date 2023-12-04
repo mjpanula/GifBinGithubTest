@@ -10,4 +10,6 @@ public class DefaultController {
     public String redirect() {
         return "redirect:/gifs";
     }
+
+
 }
